@@ -1,14 +1,27 @@
 # Data-Science
-<h1 align="center">Olá 👋, eu sou IvesToyoda</h1>
-<h3 align="center">Apaixonado por inovação no mundo digital</h3>
 
-- 🌱 Atualmente aprendendo **Fortalecendo habilidade na área de machine learning**
+<h1 align="center">Olá 👋, eu sou Ives Toyoda</h1>
+<h3 align="center">Um entusiasta da inovação e tecnologia digital</h3>
+<p align="center">
+  Com uma trajetória profissional enraizada na inovação e desenvolvimento tecnológico, busco constantemente aprimorar minhas habilidades e conhecimentos. Minha experiência abrange áreas como <b>machine learning, automação de processos (RPA), web scraping</b>, e muito mais.
+</p>
+🌱 Atualmente aprofundando meus conhecimentos em machine learning, com o objetivo de explorar e implementar soluções inovadoras.
 
-- 🤝 BUSCANDO POR **evolução**
+🤝 Em busca de colaborações e projetos que desafiem minha criatividade e habilidades técnicas, especialmente aqueles relacionados a <b>Python, Power BI, Machine Learning, APIs</b> e <b>SQL</b>.
 
-- 💬 Me pergunte sobre **PYTHON, POWER BI, MACHINE LEARNING, RPA, WEB SCRAPING, APIs e SQL**
+💼 Minha jornada profissional no LinkedIn revela um caminho dedicado à inovação e desenvolvimento em diversas plataformas e linguagens.
 
-- 📫 CONTATE ME PELO EMAIL **IVESTOYODA@ICLOUD.COM.BR**
+📫 Contato: Envie um e-mail para IVESTOYODA@ICLOUD.COM.BR para discussões profissionais, colaborações ou oportunidades.
+
+<h3 align="left">Vamos nos conectar:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/ives-toyoda-0bb114136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ives Toyoda LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/ives_toyoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ives Toyoda Instagram" height="30" width="40" /></a>
+</p>
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <!-- Ícones de linguagens e ferramentas -->
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
