@@ -1,7 +1,7 @@
 # Data-Science
 
 <h1 align="center">Olá 👋, eu sou Ives Toyoda</h1>
-<h3 align="center">Um entusiasta da inovação e tecnologia digital</h3>
+<h3 align="center">  O portfólio de um Profissional Dedicado e Apaixonado por Inovação e Tecnologia Digital</h3>
 <p align="center">
   Com uma trajetória profissional enraizada na inovação e desenvolvimento tecnológico, busco constantemente aprimorar minhas habilidades e conhecimentos. Minha experiência abrange áreas como <b>machine learning, automação de processos (RPA), web scraping</b>, e muito mais.
 </p>
